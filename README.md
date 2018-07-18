@@ -1,2 +1,2 @@
-# atmel-sam25-xplained-pro
-Connecting Atmel SAM 25 Xplained Pro to Medium One
+# atmel-sam-w25-xplained-pro
+Connecting Atmel SAM W25 Xplained Pro to Medium One
